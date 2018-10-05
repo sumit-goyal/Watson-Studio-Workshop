@@ -1,1 +1,1 @@
-# Watson-Studio-Workshop
+# Watson Studio Notebooks hands-on
