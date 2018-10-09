@@ -4,6 +4,7 @@
 It is easy to get started with Watson Studio. First of all, you need to login into [Watson Studio](https://eu-de.dataplatform.cloud.ibm.com). If you do not have a Watson Studio account use this [Account Setup](https://github.com/sumit-goyal/Watson-Studio-Workshop/wiki/Account-setup) guide to help you create one quickly.
 
 
+# Create a Project
 After logging in you will see the overview page which gives you information about your previous activity and some tabs to get started with key tasks.
 
 
@@ -15,3 +16,19 @@ After logging in you will see the overview page which gives you information abou
 4. Click Create. Your new project opens and you can start adding resources to it.
 
 ![New Project Page](./docs/images/New-Project-Page.png?raw=true "Title")
+
+# Create a Notebook
+
+Download and unzip the the [.zip file](https://github.com/sumit-goyal/Watson-Studio-Workshop/archive/master.zip). It has the Jupyter Notebooks and datasets that you need during the hands on session.
+
+1. Select the `Assets` tab in the Project Menu
+2. Click on the `+ Add to project` menu item and select `Notebook` to create a new notebook.
+
+![New Project Page](./docs/images/Add-Asset.png?raw=true "Title")
+
+3. On the `New Notebook` page select the `From file` tab as you wil be creating a New Notebook from a file. Browse the `.ipynb` file in the .zip folder you just downloaded. Click `Create Notebook` in the bottom right and your notebook will be created. You are all set to work with your notebook. The notebook itself has all the further instructions.
+
+The download .zip has two Notebooks.
+
+1. Getting started with Notebooks.ipynb - Use this notebook to get started with using Jupyter Notebooks in Watson Studio.
+2. Use Spark and Python to Predict Equipment Purchase.ipynb - Use this Notebook if you are familiar with Jupyter Notebooks and basic concepts of machine learning.
