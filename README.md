@@ -1,7 +1,7 @@
 # IBM Watson Studio hands on
 
 
-It is easy to get started with Watson Studio. First of all, you need to login into [Watson Studio](https://eu-de.dataplatform.cloud.ibm.com). If you do not have a Watson Studio account use this [Account Setup](https://github.com/sumit-goyal/Watson-Studio-Workshop/wiki/Account-setup) guide to help you create one quickly.
+It is easy to get started with Watson Studio. First of all, you need to login into [Watson Studio](https://eu-de.dataplatform.cloud.ibm.com). If you do not have a Watson Studio account use the [Account Setup](https://github.com/sumit-goyal/Watson-Studio-Workshop/wiki/Account-setup) guide to help you create one quickly.
 
 
 # Create a Project
@@ -26,9 +26,13 @@ Download and unzip the the [.zip file](https://github.com/sumit-goyal/Watson-Stu
 
 ![New Project Page](./docs/images/Add-Asset.png?raw=true "Title")
 
-3. On the `New Notebook` page select the `From file` tab as you wil be creating a New Notebook from a file. Browse the `.ipynb` file in the .zip folder you just downloaded. Click `Create Notebook` in the bottom right and your notebook will be created. You are all set to work with your notebook. The notebook itself has all the further instructions.
+3. On the `New Notebook` page select the `From file` tab as you wil be creating a New Notebook from a file.
 
+4. Browse the `.ipynb` file in the .zip folder you just downloaded.
 The download .zip has two Notebooks.
 
-1. Getting started with Notebooks.ipynb - Use this notebook to get started with using Jupyter Notebooks in Watson Studio.
-2. Use Spark and Python to Predict Equipment Purchase.ipynb - Use this Notebook if you are familiar with Jupyter Notebooks and basic concepts of machine learning.
+* [Getting started with Notebooks.ipynb](https://github.com/sumit-goyal/Watson-Studio-Workshop/blob/master/notebooks/Getting%20started%20with%20Notebooks.ipynb) - Use this notebook to get started with using Jupyter Notebooks in Watson Studio.
+* [Use Spark and Python to Predict Equipment Purchase.ipynb](https://github.com/sumit-goyal/Watson-Studio-Workshop/blob/master/notebooks/Use%20Spark%20and%20Python%20to%20Predict%20Equipment%20Purchase.ipynb) - Use this Notebook if you are familiar with Jupyter Notebooks and basic concepts of machine learning.
+
+5. Click `Create Notebook` in the bottom right and your notebook will be created. You are all set to work with your notebook. The notebook itself has all the further instructions.
+
