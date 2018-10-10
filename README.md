@@ -10,7 +10,7 @@ After logging in you will see the overview page which gives you information abou
 
 ![Watson Studio Landing page](./docs/images/Landing-Page-Tile.png?raw=true "Title")
 
-1. Choose  `New project`
+1. Choose  `New project` ("Complete" is good).
 2. On the New project screen, add a name and optional description for the project.
 3. Choose an existing object storage service instance or create a new one. 
 4. Click Create. Your new project opens and you can start adding resources to it.
@@ -19,7 +19,7 @@ After logging in you will see the overview page which gives you information abou
 
 # Create a Notebook
 
-Download and unzip the the [.zip file](https://github.com/sumit-goyal/Watson-Studio-Workshop/archive/master.zip). It has the Jupyter Notebooks and datasets that you need during the hands on session.
+Download and unzip the [.zip file](https://github.com/sumit-goyal/Watson-Studio-Workshop/archive/master.zip). It has the Jupyter Notebooks and datasets that you need during the hands on session.
 
 1. Select the `Assets` tab in the Project Menu
 2. Click on the `+ Add to project` menu item and select `Notebook` to create a new notebook.
