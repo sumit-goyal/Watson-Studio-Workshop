@@ -8,7 +8,7 @@ It is easy to get started with Watson Studio. First of all, you need to login in
 After logging in you will see the overview page which gives you information about your previous activity. It also gives you options to create a new project or search for data in the enterprise catalog.
 
 
-![Watson Studio Landing page](./docs/images/Landing-Page-Tile.png?raw=true "Title")
+![Watson Studio Landing page](./docs/images/ws-landing-page.png?raw=true "Title")
 
 1. Choose  `Create a project` ("Standard" is good).
 2. On the New project screen, add a name and optional description for the project.
