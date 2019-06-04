@@ -5,17 +5,24 @@ It is easy to get started with Watson Studio. First of all, you need to login in
 
 
 # Create a Project
-After logging in you will see the overview page which gives you information about your previous activity and some tabs to get started with key tasks.
+After logging in you will see the overview page which gives you information about your previous activity. It also gives you options to create a new project or search for data in the enterprise catalog.
 
 
 ![Watson Studio Landing page](./docs/images/Landing-Page-Tile.png?raw=true "Title")
 
-1. Choose  `New project` ("Complete" is good).
+1. Choose  `Create a project` ("Standard" is good).
 2. On the New project screen, add a name and optional description for the project.
-3. Choose an existing object storage service instance or create a new one. 
-4. Click Create. Your new project opens and you can start adding resources to it.
 
-![New Project Page](./docs/images/New-Project-Page.png?raw=true "Title")
+![New Project Page](./docs/images/new-project-form.png?raw=true "New Project Form")
+
+3. Choose an existing object storage service instance or [create a new one](https://github.com/sumit-goyal/Watson-Studio-Workshop/wiki/Account-setup).
+4. You can leave rest of the settings on default.
+5. Click Create.
+
+Your new project is created and you can start adding resources to it.
+
+![New Project Created](./docs/images/new-project-created.png?raw=true "New Project Created")
+
 
 # Create a Notebook
 
@@ -24,7 +31,7 @@ Download and unzip the [.zip file](https://github.com/sumit-goyal/Watson-Studio-
 1. Select the `Assets` tab in the Project Menu
 2. Click on the `+ Add to project` menu item and select `Notebook` to create a new notebook.
 
-![New Project Page](./docs/images/Add-Asset.png?raw=true "Title")
+![New Project Page](./docs/images/add-to-project.png?raw=true "Title")
 
 3. On the `New Notebook` page select the `From file` tab as you wil be creating a New Notebook from a file.
 
