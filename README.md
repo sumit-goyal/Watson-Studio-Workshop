@@ -40,15 +40,13 @@ Download and unzip the [.zip file](https://github.com/sumit-goyal/Watson-Studio-
 
 ![New Project Page](./docs/images/add-to-project.png?raw=true "Title")
 
-3. On the `New Notebook` page select the `From file` tab as you wil be creating a New Notebook from a file.
+3. On the `New Notebook` page select the `From URL` tab as you wil be creating a New Notebook from a file.
 
-4. Browse the `.ipynb` file in the .zip folder you just downloaded.
-The download .zip has two Notebooks.
+4. Put the URL `https://github.com/sumit-goyal/Watson-Studio-Workshop/blob/master/notebooks/Part%201_%20Use%20Spark%20and%20Python%20to%20Predict%20Equipment%20.ipynb` in the field `Notebook URL` and enter a name for the notebook.
 
-* [Getting started with Notebooks.ipynb](https://github.com/sumit-goyal/Watson-Studio-Workshop/blob/master/notebooks/Getting%20started%20with%20Notebooks.ipynb) - Use this notebook to get started with using Jupyter Notebooks in Watson Studio.
-* [Use Spark and Python to Predict Equipment Purchase.ipynb](https://github.com/sumit-goyal/Watson-Studio-Workshop/blob/master/notebooks/Use%20Spark%20and%20Python%20to%20Predict%20Equipment%20Purchase.ipynb) - Use this Notebook if you are familiar with Jupyter Notebooks and basic concepts of machine learning.
+![Create Notebook] (./docs/images/new-notebook-from-url.png?raw=true "Title")
 
-5. Select the runtime called `Default Python 3.5 XS (2 vCPU and 8 GB RAM)` from the dropdown on the right if you chose the first notebook (Getting started with Notebooks) and the runtime called `Default Spark Python 3.5 XS (Driver with 1 vCPU and 4 GB RAM, 2 executors with 1 vCPU and 4 GB RAM each)` for the second notebook as it requires an Apache Spark runtime.
+5. Select the runtime `Default Spark Python 3.6 XS (Driver with 1 vCPU and 4 GB RAM, 2 executors with 1 vCPU and 4 GB RAM each)` for the second notebook as it requires an Apache Spark runtime.
 
 ![Select Runtime](./docs/images/Select-Runtime.png?raw=true "Title")
 
