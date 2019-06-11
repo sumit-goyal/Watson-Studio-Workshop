@@ -23,6 +23,13 @@ Your new project is created and you can start adding resources to it.
 
 ![New Project Created](./docs/images/new-project-created.png?raw=true "New Project Created")
 
+# Upload the dataset
+
+No wonder the word "Data Science" starts with data. Now, we will upload a dataset to the project you just created. We will be usin the dataset called 
+
+# Refine the dataset
+
+We will use the tool called Data Refinery in Watson Studio to refine our dataset.
 
 # Create a Notebook
 
@@ -46,4 +53,10 @@ The download .zip has two Notebooks.
 ![Select Runtime](./docs/images/Select-Runtime.png?raw=true "Title")
 
 6. Click `Create Notebook` in the bottom right and your notebook will be created. You are all set to work with your notebook. The notebook has all the further instructions.
+
+# AutoAI (Optional)
+
+
+
+
 
