@@ -46,7 +46,7 @@ Download and unzip the [.zip file](https://github.com/sumit-goyal/Watson-Studio-
 
 ![Create Notebook](./docs/images/new-notebook-from-url.png?raw=true "Title")
 
-5. Select the runtime `Default Spark Python 3.6 XS (Driver with 1 vCPU and 4 GB RAM, 2 executors with 1 vCPU and 4 GB RAM each)` for the second notebook as it requires an Apache Spark runtime.
+5. Select the runtime `Default Spark Python 3.6 XS (Driver with 1 vCPU and 4 GB RAM, 2 executors with 1 vCPU and 4 GB RAM each)` for the notebook as it requires an Apache Spark runtime.
 
 ![Select Runtime](./docs/images/select-runtime-spark.png?raw=true "Title")
 
