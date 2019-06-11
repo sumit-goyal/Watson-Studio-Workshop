@@ -44,11 +44,11 @@ Download and unzip the [.zip file](https://github.com/sumit-goyal/Watson-Studio-
 
 4. Put the URL `https://github.com/sumit-goyal/Watson-Studio-Workshop/blob/master/notebooks/Part%201_%20Use%20Spark%20and%20Python%20to%20Predict%20Equipment%20.ipynb` in the field `Notebook URL` and enter a name for the notebook.
 
-![Create Notebook] (./docs/images/new-notebook-from-url.png?raw=true "Title")
+![Create Notebook](./docs/images/new-notebook-from-url.png?raw=true "Title")
 
 5. Select the runtime `Default Spark Python 3.6 XS (Driver with 1 vCPU and 4 GB RAM, 2 executors with 1 vCPU and 4 GB RAM each)` for the second notebook as it requires an Apache Spark runtime.
 
-![Select Runtime](./docs/images/Select-Runtime.png?raw=true "Title")
+![Select Runtime](./docs/images/select-runtime-spark.png?raw=true "Title")
 
 6. Click `Create Notebook` in the bottom right and your notebook will be created. You are all set to work with your notebook. The notebook has all the further instructions.
 
