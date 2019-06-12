@@ -46,10 +46,15 @@ As you might be already aware, data required for machine learning can rarely be 
 
 ![Refine dataset](./docs/images/refine-dataset.png?raw=true "Refine Dataset")
 
+3. Next, we will perform the following two data pre-processing steps.
+
+a) Remove the rows with `NA` values from the `AGE column in the dataset.
+b) The profession has some malformed records for example; STUDENT and Student are one and the same. We will create steps to brig all those record to Capital case.
+
+You can follow the workshop instructor for the above steops. Feel free to contact the instrcutors for any questions.
+
 
 # Create a Notebook
-
-Download and unzip the [.zip file](https://github.com/sumit-goyal/Watson-Studio-Workshop/archive/master.zip). It has the Jupyter Notebooks and datasets that you need during the hands on session.
 
 1. Select the `Assets` tab in the Project Menu
 2. Click on the `+ Add to project` menu item and select `Notebook` to create a new notebook.
